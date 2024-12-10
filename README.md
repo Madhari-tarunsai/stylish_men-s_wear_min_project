@@ -33,7 +33,7 @@ Introduction:-
 
 About_us:-
 
-                      We believe fashion is more than clothing – it’s an expression of individuality and confidence. At Stylish Men's Wear, we curate premium collections crafted from high-quality materials, ensuring you always look and feel your best.
+                We believe fashion is more than clothing – it’s an expression of individuality and confidence. At Stylish Men's Wear, we curate premium collections crafted from high-quality materials, ensuring you always look and feel your best.
 
                     
   
