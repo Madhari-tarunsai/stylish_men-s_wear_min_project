@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add-to-card</title>
+    <link rel="shortcut icon" href="https://thumbs.dreamstime.com/b/add-to-cart-web-button-add-to-cart-web-button-icon-isolated-white-background-vector-illustration-119024022.jpg" type="image/x-icon">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color:burlywood;
+        }
+
+        .card {
+            width: 300px;
+            background-color: #fff;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+        .card img {
+            width: 100%;
+            height: auto;
+        }
+
+        .card-content {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .card-title {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .card-description {
+            font-size: 1rem;
+            color: #777;
+            margin-bottom: 20px;
+        }
+        .card-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .card-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img src="https://thumbs.dreamstime.com/b/add-to-cart-concept-28949128.jpg" alt="Card Image">
+        <div class="card-content">
+            <h3 class="card-title">Add to cart</h3>
+            <p class="card-description">your items is add sucessfully</p>
+            <a href="./fasttrack.html" class="card-button">Go to Home</a>
+        </div>
+    </div>
+</body>
+</html>
