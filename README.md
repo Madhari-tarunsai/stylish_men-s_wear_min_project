@@ -60,6 +60,14 @@ Spring/Summer: Light fabrics and fresh hues.
 Autumn/Winter: Rich textures and warm tones.
 
 
+5. Eco-Friendly Packaging:
+Our packaging is designed with the planet in mind. Recyclable and reusable materials reflect our commitment to sustainability.
+
+6.Overall website look:-
+home(![Screenshot (149)](https://github.com/user-attachments/assets/b18eef66-c77b-49fa-af3e-0f912ca31f48)
+)
+
+
 
 
 
