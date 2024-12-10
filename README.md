@@ -64,8 +64,60 @@ Autumn/Winter: Rich textures and warm tones.
 Our packaging is designed with the planet in mind. Recyclable and reusable materials reflect our commitment to sustainability.
 
 6.Overall website look:-
-home(![Screenshot (149)](https://github.com/user-attachments/assets/b18eef66-c77b-49fa-af3e-0f912ca31f48)
+homepage:-
+(![Screenshot (149)](https://github.com/user-attachments/assets/b18eef66-c77b-49fa-af3e-0f912ca31f48)
 )
+
+Catgories:-
+(![Screenshot (150)](https://github.com/user-attachments/assets/c9186cae-8d0a-463a-bd30-1bc28884d6eb)
+)
+
+(![Screenshot (151)](https://github.com/user-attachments/assets/352d4ea8-16f0-4c09-8508-9e3f29f14c10)
+)
+
+(![Screenshot (152)](https://github.com/user-attachments/assets/9666ce2c-feaf-4e9b-b91b-b92d706bb2ca)
+)
+
+(![Screenshot (153)](https://github.com/user-attachments/assets/ef8cde48-a417-4afd-8771-b42e42baed67)
+)
+
+watches:-
+(![Screenshot (154)](https://github.com/user-attachments/assets/75d043b0-dc7c-4427-ac16-b8715a156c5f)
+)
+
+Bluetooth(buds):-
+
+(![Screenshot (155)](https://github.com/user-attachments/assets/69e454cf-3385-4f27-892b-3f88853ab4bd)
+)
+
+(![Screenshot (156)](https://github.com/user-attachments/assets/fae04a57-9734-4630-84da-b19aa1cdc5f2)
+)
+
+login:-
+
+(![Screenshot (158)](https://github.com/user-attachments/assets/78141fd7-6def-40be-90a3-c64d33fde0e9)
+)
+
+Registration:-
+
+(![Screenshot (159)](https://github.com/user-attachments/assets/94ba987a-e78f-4357-9c69-1116956a4d88)
+)
+
+Forgetting Password:-
+
+(![Screenshot (160)](https://github.com/user-attachments/assets/e7a918e1-0a27-40a6-8e5a-dce5733b3759)
+)
+
+footer:-
+
+(![Screenshot (157)](https://github.com/user-attachments/assets/83b8461a-d5f7-416b-a3c8-735e4f1ced98)
+)
+
+Shop Now:
+Transform your wardrobe with Stylish Men's Wear. Shop the latest trends and timeless classics today!
+
+Stylish Men’s Wear – Fashion That Speaks for You.
+
 
 
 
