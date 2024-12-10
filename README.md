@@ -71,6 +71,10 @@ homepage:-
 Catgories:-
 ![Screenshot (150)](https://github.com/user-attachments/assets/c9186cae-8d0a-463a-bd30-1bc28884d6eb)
 
+![Screenshot (164)](https://github.com/user-attachments/assets/f9cdd814-bd65-4ed3-991d-c3409ee572d8)
+
+![Screenshot (165)](https://github.com/user-attachments/assets/cbe8a6d0-03e9-493a-b070-75c926d4b7b1)
+
 
 ![Screenshot (151)](https://github.com/user-attachments/assets/352d4ea8-16f0-4c09-8508-9e3f29f14c10)
 
@@ -83,6 +87,22 @@ Catgories:-
 
 watches:-
 ![Screenshot (154)](https://github.com/user-attachments/assets/75d043b0-dc7c-4427-ac16-b8715a156c5f)
+
+
+![Screenshot (161)](https://github.com/user-attachments/assets/b9011f1b-db53-42cc-91bc-8f8f6b238363)
+
+![Screenshot (163)](https://github.com/user-attachments/assets/3af374b2-09b4-4dd2-b59c-a5624c0f15f7)
+
+![Screenshot (162)](https://github.com/user-attachments/assets/bd72cbf9-2053-470a-a694-c5d3e26e4d6d)
+
+![Screenshot (167)](https://github.com/user-attachments/assets/f26d06e4-bb15-4b4d-a4df-ad785d99d7c0)
+
+![Screenshot (166)](https://github.com/user-attachments/assets/3912c3ab-2ecf-4e68-986a-cbc1c12aeeb9)
+
+
+
+
+
 
 
 Bluetooth(buds):-
