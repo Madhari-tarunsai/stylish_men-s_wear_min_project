@@ -33,7 +33,9 @@ Project-Description:-
 
 2.Our_Mission:- Our goal is to revolutionize men's fashion by offering styles solutions thst are effortless, versatile, and enduring. We're here to help you personal styles while staying ahead of trends.
 
-3. Why Choose Us:-Quality First: We prioritize fabric quality, durability, and craftsmanship.
+3. Why Choose Us:-
+
+Quality First: We prioritize fabric quality, durability, and craftsmanship.
    
 Diverse Styles: From classic tailoring to modern streetwear, our collection is designed to cater to every man.
 
