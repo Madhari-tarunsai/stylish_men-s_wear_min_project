@@ -31,9 +31,7 @@ Project-Description:-
 1.Introduction:-
                         Stylish Men's Wear is your ultimate destination for contemporary men's fashion that blends timeless elegance with modern trends. Whether you’re dressing for a formal occasion, casual outings, or seeking everyday essentials, we’ve got you covered with our diverse collection tailored to meet every lifestyle.
 
-2.Our_Mission:-
-
-          Our goal is to revolutionize men's fashion by offering styles solutions thst are effortless, versatile, and enduring. We're here to help you personal styles while staying ahead of trends.
+2.Our_Mission:- Our goal is to revolutionize men's fashion by offering styles solutions thst are effortless, versatile, and enduring. We're here to help you personal styles while staying ahead of trends.
 
 
 
