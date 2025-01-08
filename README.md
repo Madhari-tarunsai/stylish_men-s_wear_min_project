@@ -26,7 +26,7 @@ CSS:-Postions ,Transitions , Animations ,Selectors, Padding , Flex ,ect..
 
 Bosststrap:- Cauorels.
 
-github respository:-https://madhari-tarunsai.github.io/tarunsai_project/
+github respository:-https://madhari-tarunsai.github.io/stylish_men-s_wear_min_project/
 
 Project-Description:-
 
